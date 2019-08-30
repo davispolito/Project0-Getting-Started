@@ -12,6 +12,12 @@ Project 0 Getting Started
 COMPUTE CAPABILITY - 7.0
 
 
+![](images/Capture.png)
+![](images/redsquareinthesky.png)
+![](images/timeline.png)
+![](images/triangle.png)
+![](images/warpandautos.png)
+
 
 Include screenshots, analysis, etc. (Remember, this is public, so don't put
 anything here that you don't want to share with the world.)
